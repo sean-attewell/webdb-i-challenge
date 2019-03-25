@@ -1,5 +1,5 @@
 # SQL Exercises
-
+<!-- edit -->
 ## Topics
 
 - Structured Query Language (SQL)
